@@ -1,56 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kumar%20T&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20Always%20Building&descAlignY=55" />
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Python+%7C+Java+%7C+SQL+Developer;Building+Projects+That+Solve+Real+Problems;Learning+Something+New+Every+Day;Open+Source+Enthusiast" />
-</p>
+# 👋 Hi, I'm Abhishek Kumar T
 
-<p align="center">
-<a href="https://github.com/abhisheksharma611">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhisheksharma611)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksharma611/)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhisheksharma611&style=for-the-badge&color=blueviolet)](https://komarev.com/ghpvc/?username=abhisheksharma611)
 
-<a href="https://www.linkedin.com/in/abhisheksharma611/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**🚀 Aspiring Full-Stack Developer** · Python • Java • SQL • Always Building
 
-<img src="https://komarev.com/ghpvc/?username=abhisheksharma611&style=for-the-badge&color=blueviolet"/>
-</p>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-# 👨‍💻 About Me
+## 👤 About
 
-```yaml
-name: Abhishek Kumar
+**Abhishek Kumar** — Aspiring Full-Stack & Python Developer, currently leveling up in Backend, REST APIs, DSA & System Design. Building real-world projects and learning in public.
+<br>
+*“Code. Learn. Build. Repeat.”*
 
-role:
-  - Full Stack Developer
-  - Python Developer
+---
 
-currently_learning:
-  - Backend Development
-  - Data Structures & Algorithms
-  - REST APIs
-  - System Design
-
-interests:
-  - Web Development
-  - Automation
-  - Open Source
-  - Software Engineering
-
-mission:
-  Build scalable applications,
-  write clean code,
-  and solve real-world problems.
-
-motto:
-  "Code. Learn. Build. Repeat."
-```
-
-<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385c1d611b.gif">
-
-### 🚀 Currently Working On
+## 🚀 Currently Working On
 
 - 💻 Building practical Python applications
 - 🌐 Learning Full Stack Development
@@ -58,87 +28,69 @@ motto:
 - 📚 Exploring backend architecture and APIs
 - 🔍 Writing clean, maintainable code
 
+## 🚀 What I'm Building
+
+- 💻 A Python expense tracker with file/database storage
+- 🌐 Responsive frontend mini-projects (HTML/CSS/JS)
+- 🔧 Small daily automation scripts in Python
+- 📚 A personal notes repo for DSA & backend concepts
+
+---
+
 ### 💬 Ask Me About
 
-- Python
-- Java
-- SQL
-- HTML • CSS • JavaScript
-- Git & GitHub
+-   Python
+-   Java
+-   SQL
+-   HTML • CSS • JavaScript
+-   Git & GitHub
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abhisheksharma611/
-
-<br clear="both">
+- LinkedIn: [abhisheksharma611](https://www.linkedin.com/in/abhisheksharma611/)
 
 ---
 
-# 🎯 Learning Roadmap
+## 🛠 Tech Stack
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-Advanced-38BDF8?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Dev-In%20Progress-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/DSA-Practicing-FF6B6B?style=flat-square&logo=leetcode&logoColor=white"/>
-</p>
+**Languages**
+<br>
+![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,c)
 
----
+**Tools & Technologies**
+<br>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,c" />
-</p>
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-## Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
-</p>
+**Currently Exploring**
+<br>
+![Exploring](https://skillicons.dev/icons?i=react,nodejs,flask)
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🧾 Expense Tracker | Personal finance management application | Python |
-| 📐 Polygon Area Calculator | Calculates polygon area and perimeter using coordinates | Python |
-| 🌐 Web Development Projects | Responsive frontend projects | HTML • CSS • JavaScript |
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksharma611&theme=tokyo-night&hide_border=true"/>
-</p>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🧾 Expense Tracker](https://github.com/abhisheksharma611/Expense-Tracker) | Personal finance management application | Python |
+| [📐 Polygon Area Calculator](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) | Calculates area & perimeter using coordinates | Python |
+| [🌐 Web Dev Projects](https://github.com/abhisheksharma611/Abhisheksharma611_JrWebDev_SuPrazo) | Responsive frontend projects | HTML · CSS · JS |
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheksharma611/abhisheksharma611/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhisheksharma611&theme=tokyo-night&hide_border=true)
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/abhisheksharma611/abhisheksharma611/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# ⚡ Developer Philosophy
+## ⚡ Developer Philosophy
 
 ```cpp
-while(alive)
-{
+while(alive) {
     Learn();
     Build();
     Debug();
@@ -149,10 +101,10 @@ while(alive)
 
 ---
 
-# 🤝 Let's Collaborate
+<div align="center">
 
-<p align="center">
-I'm always open to learning, collaborating on projects, or discussing ideas around Python, full stack development, or open source. Feel free to reach out on <a href="https://www.linkedin.com/in/abhisheksharma611/">LinkedIn</a>.
-</p>
+## 🤝 Let's Collaborate
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+I'm always open to learning, collaborating on projects, or discussing ideas around Python, full-stack development, or open source. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abhisheksharma611/).
+
+</div>

@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksharma611/)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhisheksharma611&style=for-the-badge&color=blueviolet)](https://komarev.com/ghpvc/?username=abhisheksharma611)
 
-**🚀 Aspiring Full-Stack Developer** · Python • Java • SQL • Always Building
+**🚀 Aspiring Full-Stack Developer** · Python | Flask | SQL | Machine Learning
 
 </div>
 
@@ -14,7 +14,9 @@
 
 ## 👤 About
 
-**Abhishek Kumar** — Aspiring Full-Stack & Python Developer, currently leveling up in Backend, REST APIs, DSA & System Design. Building real-world projects and learning in public.
+**Abhishek Kumar** — Aspiring Full-Stack Developer & Computer Science Engineering student, leveling up in Backend (Flask), REST APIs, SQL, Machine Learning & System Design. Building real-world projects and learning in public.
+<br>
+Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0, classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate) using a fine-tuned RoBERTa model with an ML ensemble (95.84% accuracy), and explains every classification in plain language via NVIDIA NIM.
 <br>
 *“Code. Learn. Build. Repeat.”*
 
@@ -57,13 +59,23 @@
 <br>
 ![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,c)
 
-**Tools & Technologies**
+**Backend**
+<br>
+![Backend](https://skillicons.dev/icons?i=flask,mysql,nodejs)
+
+**Machine Learning**
+<br>
+![ML](https://skillicons.dev/icons?i=pytorch,python)
+
+**Frontend**
+<br>
+![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)
+
+**Developer Tools**
 <br>
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-**Currently Exploring**
-<br>
-![Exploring](https://skillicons.dev/icons?i=react,nodejs,flask)
+**APIs & Integration**: OAuth 2.0 · Gmail API · NVIDIA NIM
 
 ---
 
@@ -74,6 +86,17 @@
 | [🧾 Expense Tracker](https://github.com/abhisheksharma611/Expense-Tracker) | Personal finance management application | Python |
 | [📐 Polygon Area Calculator](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) | Calculates area & perimeter using coordinates | Python |
 | [🌐 Web Dev Projects](https://github.com/abhisheksharma611/AbhishekKumarT_JrWebDev_SuPrazo) | Responsive frontend projects | HTML · CSS · JS |
+
+---
+
+## 🏅 Certifications
+
+- [5-Day AI Agents: Intensive Vibe Coding Course – Kaggle (Jul 2026)](https://www.kaggle.com/certification/badges/abhizhekkumart/1)
+- [AI Fundamentals: Foundations for Understanding AI – IBM SkillsBuild (Jul 2026)](https://www.credly.com/badges/936c9227-4275-46e4-8074-8ffdc5019aa1/public_url)
+- [Lifelong Professional Skills – IBM SkillsBuild (Jul 2026)](https://www.credly.com/badges/4d78fea2-28d4-4dbb-bc9d-0e6e6c2d653d/public_url)
+- [Introduction to AI concepts – Microsoft Learn (Jul 2026)](https://learn.microsoft.com/api/achievements/share/en-gb/AbhishekKumarT-9430/U7XVYKK3?sharingId=17C640421BA7EEDA)
+- [Introduction to Large Language Models – Google (Jun 2026)](https://www.skills.google/public_profiles/c0229a9a-58d3-4c2e-9b7e-32b30f2c4390/badges/24880522)
+- [Python (Basic) – HackerRank (Mar 2026)](https://www.hackerrank.com/certificates/b59a27c5b078)
 
 ---
 

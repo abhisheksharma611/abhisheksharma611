@@ -73,7 +73,7 @@
 |--------|-------------|------|
 | [🧾 Expense Tracker](https://github.com/abhisheksharma611/Expense-Tracker) | Personal finance management application | Python |
 | [📐 Polygon Area Calculator](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) | Calculates area & perimeter using coordinates | Python |
-| [🌐 Web Dev Projects](https://github.com/abhisheksharma611/Abhisheksharma611_JrWebDev_SuPrazo) | Responsive frontend projects | HTML · CSS · JS |
+| [🌐 Web Dev Projects](https://github.com/abhisheksharma611/AbhishekKumarT_JrWebDev_SuPrazo) | Responsive frontend projects | HTML · CSS · JS |
 
 ---
 

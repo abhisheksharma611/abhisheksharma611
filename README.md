@@ -73,6 +73,10 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 <br>
 ![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap)
 
+**Frontend Frameworks**
+<br>
+![Frontend Frameworks](https://skillicons.dev/icons?i=react,nextjs)
+
 **Developer Tools**
 <br>
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
@@ -85,9 +89,11 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 | Project | Description | Tech | View Project |
 |---------|-------------|------|--------------|
+| 🤖 AI-Powered Email Spam Detection and Threat Analysis | Local-first Gmail spam & threat analyzer with fine-tuned RoBERTa and sklearn ensemble | Python · Flask · ML | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/AI-Powered-Email-Spam-Detection-and-Threat-Analysis) |
+| 🎨 ABTalks Redesign | ABTalks 60-Day Coding Challenge redesign built for the Vibe Code Hackathon 2026 | TypeScript · JavaScript · CSS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/abtalks-redesign) |
+| 🌐 NexaAI — Responsive Landing Page | Responsive frontend projects | HTML · CSS · JS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/NexaAI-Responsive-Landing-Page) |
 | 🧾 Expense Tracker | Personal finance management application | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Expense-Tracker) |
 | 📐 Polygon Area Calculator | Calculates area & perimeter using coordinates | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) |
-| 🌐 NexaAI — Responsive Landing Page | Responsive frontend projects | HTML · CSS · JS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/NexaAI-Responsive-Landing-Page) |
 
 ---
 
@@ -95,18 +101,17 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 | Certification | Issued | Verify |
 |---------------|--------|--------|
+| ViCoDathon 2026 — India's AI Vibe Coding Hackathon — ABTalksOnAI | 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.abtalks.in/verify/ABT-HK-UWTZC) |
+| CIT Mandya Hackathon — Full Stack Development — RankBook Learning & Software Solutions | 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.linkedin.com/in/abhisheksharma611/overlay/Certifications/1698353537/treasury/?profileId=ACoAAFW-qSsB9oKHJchD5jXPn61WRWuMftOu0xU) |
 | 5-Day AI Agents: Intensive Vibe Coding Course — Kaggle | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.kaggle.com/certification/badges/abhizhekkumart/108) |
 | AI Fundamentals: Foundations for Understanding AI — IBM SkillsBuild | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.credly.com/badges/936c9227-4275-46e4-8074-8ffdc5019aa1/public_url) |
 | Lifelong Professional Skills — IBM SkillsBuild | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.credly.com/badges/4d78fea2-28d4-4dbb-bc9d-0e6e6c2d653d/public_url) |
 | Introduction to AI concepts — Microsoft Learn | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://learn.microsoft.com/api/achievements/share/en-gb/AbhishekKumarT-9430/U7XVYKK3?sharingId=17C640421BA7EEDA) |
 | Introduction to Large Language Models — Google | Jun 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.skills.google/public_profiles/c0229a9a-58d3-4c2e-9b7e-32b30f2c4390/badges/24880522) |
-| Python (Basic) — HackerRank | Mar 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.hackerrank.com/certificates/b59a27c5b078) |
+| Python (Basic) — HackerRank | Feb 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.hackerrank.com/certificates/b59a27c5b078) |
+| Intro to SQL — Kaggle | Jul 2025 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.kaggle.com/learn/certification/abhizhekkumart/intro-to-sql) |
 
 ---
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhisheksharma611&theme=tokyo-night&hide_border=true)
 
 ## 🐍 Contribution Snake
 

@@ -71,7 +71,7 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 **Frontend**
 <br>
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=html,css)
 
 **Frontend Frameworks**
 <br>
@@ -101,8 +101,8 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 | Certification | Issued | Verify |
 |---------------|--------|--------|
-| ViCoDathon 2026 — India's AI Vibe Coding Hackathon — ABTalksOnAI | 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.abtalks.in/verify/ABT-HK-UWTZC) |
-| CIT Mandya Hackathon — Full Stack Development — RankBook Learning & Software Solutions | 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.linkedin.com/in/abhisheksharma611/overlay/Certifications/1698353537/treasury/?profileId=ACoAAFW-qSsB9oKHJchD5jXPn61WRWuMftOu0xU) |
+| ViCoDathon 2026 — India's AI Vibe Coding Hackathon — ABTalksOnAI | Aug 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.abtalks.in/verify/ABT-HK-UWTZC) |
+| CIT Mandya Hackathon — Full Stack Development — RankBook Learning & Software Solutions | Aug 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.linkedin.com/in/abhisheksharma611/overlay/Certifications/1698353537/treasury/?profileId=ACoAAFW-qSsB9oKHJchD5jXPn61WRWuMftOu0xU) |
 | 5-Day AI Agents: Intensive Vibe Coding Course — Kaggle | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.kaggle.com/certification/badges/abhizhekkumart/108) |
 | AI Fundamentals: Foundations for Understanding AI — IBM SkillsBuild | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.credly.com/badges/936c9227-4275-46e4-8074-8ffdc5019aa1/public_url) |
 | Lifelong Professional Skills — IBM SkillsBuild | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.credly.com/badges/4d78fea2-28d4-4dbb-bc9d-0e6e6c2d653d/public_url) |

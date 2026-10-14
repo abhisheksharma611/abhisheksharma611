@@ -44,7 +44,6 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 ### 💬 Ask Me About
 
 -   Python
--   Java
 -   SQL
 -   HTML • CSS • JavaScript
 -   Git & GitHub
@@ -91,7 +90,7 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 |---------|-------------|------|--------------|
 | 🤖 AI-Powered Email Spam Detection and Threat Analysis | Local-first Gmail spam & threat analyzer with fine-tuned RoBERTa and sklearn ensemble | Python · Flask · ML | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/AI-Powered-Email-Spam-Detection-and-Threat-Analysis) |
 | 🎨 ABTalks Redesign | ABTalks 60-Day Coding Challenge redesign built for the Vibe Code Hackathon 2026 | TypeScript · JavaScript · CSS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/abtalks-redesign) |
-| 🌐 NexaAI — Responsive Landing Page | Responsive frontend projects | HTML · CSS · JS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/NexaAI-Responsive-Landing-Page) |
+| 🌐 NexaAI — Responsive Landing Page | Built a fully responsive brand landing page for fictional AI startup NexaAI using pure HTML, CSS, and JavaScript | HTML · CSS · JS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/NexaAI-Responsive-Landing-Page) |
 | 🧾 Expense Tracker | Personal finance management application | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Expense-Tracker) |
 | 📐 Polygon Area Calculator | Calculates area & perimeter using coordinates | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) |
 

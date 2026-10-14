@@ -59,7 +59,7 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 **Languages**
 <br>
-![Languages](https://skillicons.dev/icons?i=python,java,js,postgresql)
+![Languages](https://skillicons.dev/icons?i=python,js)
 
 **Backend**
 <br>

@@ -8,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=abhisheksharma611&style=for-the-badge&color=blueviolet)](https://komarev.com/ghpvc/?username=abhisheksharma611)
 
 
-**🚀 Aspiring Full-Stack Developer** · Python | Flask | SQL | Machine Learning
+**🚀 Aspiring Full Stack Developer** · Python | Flask | SQL | Machine Learning
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👤 About
 
-**Abhishek Kumar T** — Aspiring Full-Stack Developer & Computer Science Engineering student, leveling up in Backend (Flask), REST APIs, SQL, Machine Learning & System Design. Building real-world projects and learning in public.
+**Abhishek Kumar T** — Aspiring Full Stack Developer & Computer Science Engineering student, leveling up in Backend (Flask), REST APIs, SQL, Machine Learning & System Design. Building real-world projects and learning in public.
 <br>
 Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0, classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate) using a fine-tuned RoBERTa model with an ML ensemble (97.3% measured accuracy on 2,055 held-out emails). Optional on-device explanation layer, disabled by default.
 <br>
@@ -139,6 +139,6 @@ while(alive) {
 
 ## 🤝 Let's Collaborate
 
-I'm always open to learning, collaborating on projects, or discussing ideas around Python, full-stack development, or open source. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abhisheksharma611/).
+I'm always open to learning, collaborating on projects, or discussing ideas around Python, full stack development, or open source. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abhisheksharma611/).
 
 </div>

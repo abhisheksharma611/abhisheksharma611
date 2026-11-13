@@ -18,7 +18,7 @@
 
 **Abhishek Kumar T** — Aspiring Full-Stack Developer & Computer Science Engineering student, leveling up in Backend (Flask), REST APIs, SQL, Machine Learning & System Design. Building real-world projects and learning in public.
 <br>
-Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0, classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate) using a fine-tuned RoBERTa model with an ML ensemble (95.84% accuracy), and explains every classification in plain language via NVIDIA NIM.
+Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0, classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate) using a fine-tuned RoBERTa model with an ML ensemble (97.3% measured accuracy on 2,055 held-out emails), and explains every classification in plain language via NVIDIA NIM.
 <br>
 *“Code. Learn. Build. Repeat.”*
 
@@ -58,23 +58,23 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 **Languages**
 <br>
-![Languages](https://skillicons.dev/icons?i=python,js)
+![Languages](https://skillicons.dev/icons?i=python,js,typescript)
 
 **Backend**
 <br>
 ![Backend](https://skillicons.dev/icons?i=flask,mysql)
 
-**Machine Learning**
-<br>
-![ML](https://skillicons.dev/icons?i=pytorch)
-
-**Frontend**
-<br>
-![Frontend](https://skillicons.dev/icons?i=html,css)
-
 **Frontend Frameworks**
 <br>
 ![Frontend Frameworks](https://skillicons.dev/icons?i=react,nextjs)
+
+**Frontend**
+<br>
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwindcss)
+
+**Machine Learning**
+<br>
+![ML](https://skillicons.dev/icons?i=pytorch,sklearn)
 
 **Developer Tools**
 <br>
@@ -91,8 +91,8 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 | 🤖 AI-Powered Email Spam Detection and Threat Analysis | Local-first Gmail spam & threat analyzer with fine-tuned RoBERTa and sklearn ensemble | Python · Flask · ML | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/AI-Powered-Email-Spam-Detection-and-Threat-Analysis) |
 | 🎨 ABTalks Redesign | ABTalks 60-Day Coding Challenge redesign built for the Vibe Code Hackathon 2026 | TypeScript · JavaScript · CSS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/abtalks-redesign) |
 | 🌐 NexaAI — Responsive Landing Page | Built a fully responsive brand landing page for fictional AI startup NexaAI using pure HTML, CSS, and JavaScript | HTML · CSS · JS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/NexaAI-Responsive-Landing-Page) |
-| 🧾 Expense Tracker | Personal finance management application | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Expense-Tracker) |
-| 📐 Polygon Area Calculator | Calculates area & perimeter using coordinates | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) |
+| 🧾 Expense Tracker | Personal finance management application (learning project) | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Expense-Tracker) |
+| 📐 Polygon Area Calculator | Calculates area & perimeter using coordinates (learning project) | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) |
 
 ---
 
@@ -114,7 +114,10 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 ## 🐍 Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/abhisheksharma611/abhisheksharma611/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisheksharma611/abhisheksharma611/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abhisheksharma611/abhisheksharma611/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 

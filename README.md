@@ -18,7 +18,7 @@
 
 **Abhishek Kumar T** — Aspiring Full-Stack Developer & Computer Science Engineering student, leveling up in Backend (Flask), REST APIs, SQL, Machine Learning & System Design. Building real-world projects and learning in public.
 <br>
-Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0, classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate) using a fine-tuned RoBERTa model with an ML ensemble (97.3% measured accuracy on 2,055 held-out emails), and explains every classification in plain language via NVIDIA NIM.
+Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0, classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate) using a fine-tuned RoBERTa model with an ML ensemble (97.3% measured accuracy on 2,055 held-out emails). Optional on-device explanation layer, disabled by default.
 <br>
 *“Code. Learn. Build. Repeat.”*
 
@@ -80,7 +80,7 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 <br>
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-**APIs & Integration**: OAuth 2.0 · Gmail API · NVIDIA NIM
+**APIs & Integration**: OAuth 2.0 · Gmail API · optional on-device explanations (Ollama)
 
 ---
 

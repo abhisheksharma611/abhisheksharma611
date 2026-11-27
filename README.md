@@ -18,7 +18,7 @@
 
 **Abhishek Kumar T** — Aspiring Full Stack Developer & Computer Science Engineering student, leveling up in Backend (Flask), REST APIs, SQL, Machine Learning & System Design. Building real-world projects and learning in public.
 <br>
-Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0, classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate) using a fine-tuned RoBERTa model with an ML ensemble (97.3% measured accuracy on 2,055 held-out emails). Optional on-device explanation layer, disabled by default.
+Currently building an **AI-Powered Email Spam Detection & Threat Analysis** system — a Flask web app that connects to Gmail via OAuth 2.0 and classifies emails into 6 categories (spam, phishing, malware, promotions, newsletters, legitimate). The default 90% RoBERTa + 10% ensemble predictor measured **97.96% accuracy and 97.84% macro F1** on a frozen 2,055-email holdout; component checks measured 98.00% for RoBERTa-only and 97.47% for the ensemble-only path. Optional on-device explanation layer, disabled by default.
 <br>
 *“Code. Learn. Build. Repeat.”*
 
@@ -88,8 +88,8 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 | Project | Description | Tech | View Project |
 |---------|-------------|------|--------------|
-| 🤖 AI-Powered Email Spam Detection and Threat Analysis | Local-first Gmail spam & threat analyzer with fine-tuned RoBERTa and sklearn ensemble | Python · Flask · ML | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/AI-Powered-Email-Spam-Detection-and-Threat-Analysis) |
-| 🎨 ABTalks Redesign | ABTalks 60-Day Coding Challenge redesign built for the Vibe Code Hackathon 2026 | TypeScript · JavaScript · CSS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/abtalks-redesign) |
+| 🤖 AI-Powered Email Spam Detection and Threat Analysis | Local-first Gmail spam & threat analyzer; default 90/10 predictor measured 97.96% accuracy on a frozen 2,055-email holdout | Python · Flask · ML | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/AI-Powered-Email-Spam-Detection-and-Threat-Analysis) |
+| 🎨 ABTalks Redesign | ABTalks 60-Day Coding Challenge redesign for the Vibe Code Hackathon 2026: searchable 53-episode archive, 48-guest directory, six Next.js routes, live on Vercel | TypeScript · JavaScript · CSS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/abtalks-redesign) |
 | 🌐 NexaAI — Responsive Landing Page | Built a fully responsive brand landing page for fictional AI startup NexaAI using pure HTML, CSS, and JavaScript | HTML · CSS · JS | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/NexaAI-Responsive-Landing-Page) |
 | 🧾 Expense Tracker | Personal finance management application (learning project) | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Expense-Tracker) |
 | 📐 Polygon Area Calculator | Calculates area & perimeter using coordinates (learning project) | Python | [![View Project](https://img.shields.io/badge/View_Project-1f6feb?style=for-the-badge)](https://github.com/abhisheksharma611/Polygon-area-calculator-Python) |
@@ -100,7 +100,7 @@ Currently building an **AI-Powered Email Spam Detection & Threat Analysis** syst
 
 | Certification | Issued | Verify |
 |---------------|--------|--------|
-| ViCoDathon 2026 — India's AI Vibe Coding Hackathon — ABTalksOnAI | Aug 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.abtalks.in/verify/ABT-HK-UWTZC) |
+| ViCoDathon 2026 — India's AI Vibe Coding Hackathon — AB Talks | 14 Aug 2026 · Certificate ID ABT-HK-UWTZC | Public verification link unavailable |
 | CIT Mandya Hackathon — Full Stack Development — RankBook Learning & Software Solutions | Aug 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.linkedin.com/in/abhisheksharma611/overlay/Certifications/1698353537/treasury/?profileId=ACoAAFW-qSsB9oKHJchD5jXPn61WRWuMftOu0xU) |
 | 5-Day AI Agents: Intensive Vibe Coding Course — Kaggle | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.kaggle.com/certification/badges/abhizhekkumart/108) |
 | AI Fundamentals: Foundations for Understanding AI — IBM SkillsBuild | Jul 2026 | [![Verify](https://img.shields.io/badge/Verify-238636?style=for-the-badge)](https://www.credly.com/badges/936c9227-4275-46e4-8074-8ffdc5019aa1/public_url) |
